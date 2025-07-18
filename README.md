@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raissa
 
-A passionate software engineering student exploring AI, money, and tech 🧠💰
+**Software Developer | AI Enthusiast** 🧠💻
 
 ---
 
@@ -15,19 +15,19 @@ A passionate software engineering student exploring AI, money, and tech 🧠💰
 ---
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gatera900&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gatera900&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Raissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=gatera900&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatera900&layout=compact&theme=radical)
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gatera900.gatera900)
