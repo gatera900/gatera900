@@ -54,6 +54,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![GitHub](https://img.shields.io/badge/GitHub_Version_Control-181717?style=for-the-badge&logo=github)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-222222?style=for-the-badge&logo=virustotal)
 ![Web3](https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=ethereum)
 
